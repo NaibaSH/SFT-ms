@@ -1,0 +1,59 @@
+Reflection - MS2    
+winter24-sft221-zbb-a
+
+Reflection Questions:
+Answer the following questions using your own words. Make sure that each answer comprises a minimum of 100 words.
+
+
+
+**********************************************************************************************************************************
+
+1.	In this milestone you have been asked to analyze a problem and design software (functions) to complete the solution without writing the software.
+a.	Is this process more difficult than just writing the software to complete the project? If so, why is it more difficult? If not, why is it easier than just writing the software?
+
+
+When we take the time to analyze and design software thoroughly before diving into coding, it might appear as though we're delaying the start of our journey. However, this is essentially like creating a detailed map before setting off on a voyage. This preparatory stage ensures that we, as a team, have a clear understanding of the path ahead, enabling us to navigate it with greater efficiency. Yes, it requires patience and a significant upfront investment of time, but this careful planning often leads to a smoother journey with fewer detours and obstacles. In the software development landscape, such an approach greatly reduces the likelihood of having to backtrack and redo work, making the overall process more streamlined and effective. So, while it may seem slower at first, this strategy is actually a smart use of our collective time and resources, ensuring that we can deliver a well-crafted solution with minimal setbacks.
+
+
+
+*****************************************************************************************************************************
+
+
+b.	Describe two advantages of developing software in this manner rather than just moving on to writing the functions without writing specifications first.
+
+
+Developing software with prior written specifications offers significant advantages. Initially, it enhances clarity and comprehension among the development team regarding the project's requirements. This preliminary step of defining function specifications — detailing expected behaviors, inputs, and outputs — reduces misunderstandings and the necessity for subsequent revisions. Secondly, this approach aids in meticulous planning and organization. Understanding the specifications allows developers to identify interdependencies, efficiently allocate tasks, and accurately predict resource and time requirements. This systematic method not only streamlines the development process but also contributes to the creation of superior quality software by ensuring that all functionalities align closely with the predefined requirements.
+
+
+************************************************************************************************************************************
+
+
+2.	Why is it a good idea to create a test plan? Describe at least 3 advantages of test plans.
+
+
+
+Creating a test plan is essential in the software development process for various compelling reasons. It serves as a blueprint, guiding the testing team through the process, ensuring that all functional and non-functional aspects of the application are examined. Firstly, a test plan outlines a clear testing strategy, including objectives, methodologies, and scope, which enhances test coverage and ensures a thorough examination of the software. Secondly, it facilitates efficient resource management by assigning specific roles, responsibilities, and timelines to the testing team, leading to better organization and coordination. Thirdly, it enables early detection of defects and issues, significantly reducing the cost and time required for fixes if these were discovered later in the development cycle. Moreover, a test plan acts as a reference document, improving communication among team members and stakeholders about testing processes and expectations. Ultimately, it contributes to higher software quality, customer satisfaction, and adherence to project timelines and budgets.
+
+*************************************************************************************************************************************
+
+3.	Describe the process you used to analyze and understand the existing software.
+
+
+We began by carefully analyzing the existing software, identifying where improvements could significantly enhance its performance and functionality. Our team focused on integrating efficient data structures, which was crucial for the solution's overall efficiency. Developing a detailed test plan was our next step, ensuring the software's reliability and performance through rigorous unit, integration, and system testing. The scrum report highlighted our teamwork and progress, documenting how regular meetings helped us navigate challenges and keep the project on track. This process was about enhancing the software collaboratively, making it more efficient. Also before writing the reflection, we discussed all the questions that had arisen throughout the project. This preparatory conversation ensured our reflection would deeply and accurately reflect our experiences and learnings. It was a crucial step for aligning our insights and fully capturing the essence of our collaborative efforts.
+Through a line-by-line execution of the program, monitoring the autos and local watch, and also the Call Stack, we were able to analyze and understand the inputs, logic, and output of each function being used on the project starter. 
+
+Now we understood that for now the program is:
+
+Creating the base map with each building block and free spaces for streets.
+
+Then obtaining the data of the Blue Route.
+
+Adding the Blue Route data to the Base Map.
+
+Finally print the current status of the Base Map.
+
+*************************************************************************************************************************************
+
+
+
+

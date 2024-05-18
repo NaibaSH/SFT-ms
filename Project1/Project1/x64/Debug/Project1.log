@@ -1,0 +1,2 @@
+﻿stringhelp.obj : error LNK2019: unresolved external symbol l4cPrint referenced in function nextWhite
+C:\Users\naiba\OneDrive\Desktop\Project1\Project1\x64\Debug\Project1.exe : fatal error LNK1120: 1 unresolved externals
